@@ -1,0 +1,3 @@
+- configmgr: smsc config struct
+- connmgr: read smsc config, for each smsc create goroutine for connection
+- connmgr: check out fakesmsc in kannel
